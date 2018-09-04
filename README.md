@@ -6,7 +6,7 @@ ECE 309
 
 9/4/2018
 
-*HW2
+## HW2
 
 *Go to setting and change unityid behind ece309-fall18 to your actual unityid
 
