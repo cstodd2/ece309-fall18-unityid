@@ -18,3 +18,6 @@ ECE 309
 
 *Sign up for Travic-CI
 
+*Complete questions 2-4 in word doc and submit it to moodle
+
+*Turn question 2 into gethub
